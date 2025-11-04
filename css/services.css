@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(152, 80, 219);
+}
+
+#heading1{
+    color: rgb(161, 11, 11);
+    text-align: center;
+}
+
+#heading2{
+    color: rgb(146, 96, 35);
+    text-align: center;
+}
+.paragraph{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#vip{
+    background-color: antiquewhite;
+    display: flex;
+    margin:20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#vip img{
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+#vip:hover{
+    background-color: rgb(145, 75, 75);
+}
+
+#shipping{
+    display: flex;
+    margin: 20px;
+    padding: 10px;
+}
+
+#mydiv{
+    margin-left: 10px;
+}
+#cars{
+    display: flex;
+    padding: 100px;
+    
+}
+
+.cars{
+margin-right: 100px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    background-color: none;
+}
